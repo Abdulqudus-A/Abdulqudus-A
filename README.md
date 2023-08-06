@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abdulqudus-A
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me aremuabdulquduz@gmail.com
 
